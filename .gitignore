@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules
+
+# Dist
+/dist
+
+# Mac files
+.DS_Store
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+*.iml
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
