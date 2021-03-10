@@ -13,7 +13,7 @@
       "instagram": "https://instagram.com/jsuntai",
       "city": "Rohnert Park",
       "state": "CA",
-      "country": "USA",
+      "country": "USA"
     },
     {
       "id": 456,
@@ -28,7 +28,7 @@
       "instagram": "https://instagram.com/anonymllc",
       "city": "New York",
       "state": "NY",
-      "country": "USA",
+      "country": "USA"
     },
     {
       "id": 789,
@@ -43,7 +43,7 @@
       "instagram": "https://instagram.com/hui0252",
       "city": "Kaohsiung",
       "state": "",
-      "country": "Taiwan",
-    },
-  ],
+      "country": "Taiwan"
+    }
+  ]
 }
